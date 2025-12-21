@@ -869,7 +869,7 @@ html {
     }
 
     .nav-links {
-        display: none;
+        display: none !important;
     }
 
     .lang-toggle {
@@ -1096,7 +1096,7 @@ html {
     }
 
     .social-icons {
-        justify-content: center;
+        justify-content: flex-start;
     }
 
     .social-link {
